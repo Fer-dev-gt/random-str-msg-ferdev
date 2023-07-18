@@ -1,0 +1,21 @@
+{
+  "name": "random-str-msg-ferdev",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "Url": "git+https://github.com/Fer-dev-gt/random-str-msg-ferdev.git "
+  },
+  "keywords": [],
+  "author": "Fernando Orozco",
+  "license": "MIT",
+  "homepage": "https://github.com/Fer-dev-gt/random-str-msg-ferdev#readme",
+  "bin": {
+    "random-str-msg-ferdev": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
